@@ -7,8 +7,7 @@ import Image from 'next/future/image'
 export default () => {
   return (
     // flex flex-col justify-between mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative
-    <div className="flex flex-col lg:flex-row justify-between mx-auto max-w-7xl lg:max-w-4xl sm:px-6 lg:px-8 py-20 sm:py-32">
-    {/* <div className="relative mx-auto flex max-w-2xl flex-col justify-between py-20 sm:py-32 lg:max-w-4xl lg:flex-row lg:px-12"> */}
+    <div className="flex flex-col lg:flex-row justify-between mx-auto max-w-7xl lg:max-w-4xl sm:px-6 px-4 lg:px-8 py-20 sm:py-32">
       <div className="flex w-full flex-col content-center justify-start lg:w-4/12">
         <h5 className="text-center sm:text-left mb-11 font-display text-2xl font-bold tracking-tighter text-blue-900 sm:text-2xl">
           Transform your product images from this
