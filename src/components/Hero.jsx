@@ -23,7 +23,7 @@ export function Hero() {
       <Container className="relative">
         <div className="mx-auto max-w-2xl lg:max-w-4xl lg:px-12">
           <h1 className="font-display text-3xl font-bold tracking-tighter text-blue-600 sm:text-7xl">
-            <span className="sr-only">Dyno Ads - </span>Ad Feeds on steroid
+            <span className="sr-only">EditAdsFast - </span>Ad Feeds on steroid
           </h1>
           <div className="mt-6 space-y-6 font-display text-xl tracking-tight text-blue-900">
             <p>
