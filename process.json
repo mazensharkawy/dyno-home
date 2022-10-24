@@ -2,7 +2,7 @@
     "apps": [
       {
         "name": "EditAdsFast Home",
-        "script": "/usr/bin/npm",
+        "script": "npm",
         "args": "start",
         "exec_mode": "fork",
         "env": {
