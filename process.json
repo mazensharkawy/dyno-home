@@ -2,7 +2,7 @@
     "apps": [
       {
         "name": "EditAdsFast Home",
-        "script": "/usr/bin/yarn",
+        "script": "/usr/bin/npm",
         "args": "start",
         "exec_mode": "fork",
         "env": {
