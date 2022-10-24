@@ -1,0 +1,15 @@
+{
+    "apps": [
+      {
+        "name": "EditAdsFast Home",
+        "script": "/usr/bin/yarn",
+        "args": "start",
+        "exec_mode": "fork",
+        "env": {
+          "NODE_ENV": "production",
+          "PORT": 3000
+        }
+      }
+    ]
+  }
+  
