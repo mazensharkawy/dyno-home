@@ -9,19 +9,17 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DeceptiConf - A community-driven design conference</title>
+        <title>EditAdsFast - Ad Feeds on steroid</title>
         <meta
           name="description"
-          content="At DeceptiConf you’ll learn about the latest dark patterns being developed to trick even the smartest visitors, and you’ll learn how to deploy them without ever being detected."
+          content="Create eye-catching images for your Ad feeds. Transform your product image into an Ad in itself.
+          We automatically edit your ad image; add price, discount, title, your logo and even more."
         />
       </Head>
       <Header />
       <main>
         <Hero />
         <FeedImagePreiew />
-        {/* <Schedule />
-        <Sponsors />
-        <Newsletter /> */}
       </main>
       <Footer />
     </>
