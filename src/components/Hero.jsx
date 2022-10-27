@@ -37,7 +37,7 @@ export function Hero() {
           <Button href="https://app.editadsfast.com/signup" className="mt-10 mb-6 w-full sm:hidden bg-indigo-600 hover:bg-indigo-700">
             Sign up
           </Button>
-          <a className="w-full sm:hidden underline inline-flex justify-center" href="https://editadsfast.com/signup">Have an account? Sign in instead!</a>
+          <a className="w-full sm:hidden underline inline-flex justify-center" href="https://app.editadsfast.com">Have an account? Sign in instead!</a>
         </div>
       </Container>
     </div>
