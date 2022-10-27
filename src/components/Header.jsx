@@ -12,10 +12,10 @@ export function Header() {
         </div>
         <div className="flex justify-end lg:grow lg:basis-0">
           <div className="hidden sm:mt-10 sm:flex lg:mt-0 whitespace-nowrap lg:basis-0 lg:justify-end">
-            <Button className="bg-indigo-600" href="#">Sign up</Button>
+            <Button className="bg-indigo-600" href="https://app.editadsfast.com/signup">Sign up</Button>
           </div>
           <div className="hidden ml-5 sm:mt-10 sm:flex lg:mt-0 whitespace-nowrap lg:basis-0 lg:justify-end">
-            <Button className="bg-indigo-600" href="#">Sign in</Button>
+            <Button className="bg-indigo-600" href="https://app.editadsfast.com">Sign in</Button>
           </div>
         </div>
       </Container>

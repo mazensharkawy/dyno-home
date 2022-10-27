@@ -34,10 +34,10 @@ export function Hero() {
               Just add your feed to your account, your export link to google feed,and you are good to go.
             </p>
           </div>
-          <Button href="https://app.dynoads.com/signup" className="mt-10 mb-6 w-full sm:hidden bg-indigo-600 hover:bg-indigo-700">
+          <Button href="https://app.editadsfast.com/signup" className="mt-10 mb-6 w-full sm:hidden bg-indigo-600 hover:bg-indigo-700">
             Sign up
           </Button>
-          <a className="w-full sm:hidden underline inline-flex justify-center">Have an account? Sign in instead!</a>
+          <a className="w-full sm:hidden underline inline-flex justify-center" href="https://editadsfast.com/signup">Have an account? Sign in instead!</a>
         </div>
       </Container>
     </div>
