@@ -11,6 +11,9 @@ export function Footer() {
           Copyright &copy; {new Date().getFullYear()} EditAdsFast. All rights
           reserved.
         </p>
+        <p className="mt-6 text-base text-slate-500 md:mt-0">
+          Contact us: support@editadsfast.com
+        </p>
       </Container>
     </footer>
   )
